@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\HX\HZChTO2.0\bin\Debug\HZChTO2.0.exe.config
+C:\Users\user\Desktop\HX\HZChTO2.0\bin\Debug\HZChTO2.0.exe
+C:\Users\user\Desktop\HX\HZChTO2.0\bin\Debug\HZChTO2.0.pdb
+C:\Users\user\Desktop\HX\HZChTO2.0\obj\Debug\HZChTO2.0.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\HX\HZChTO2.0\obj\Debug\HZChTO2._0.Form1.resources
+C:\Users\user\Desktop\HX\HZChTO2.0\obj\Debug\HZChTO2._0.Form2.resources
+C:\Users\user\Desktop\HX\HZChTO2.0\obj\Debug\HZChTO2._0.Form3.resources
+C:\Users\user\Desktop\HX\HZChTO2.0\obj\Debug\HZChTO2._0.Form4.resources
+C:\Users\user\Desktop\HX\HZChTO2.0\obj\Debug\HZChTO2._0.Properties.Resources.resources
+C:\Users\user\Desktop\HX\HZChTO2.0\obj\Debug\HZChTO2.0.csproj.GenerateResource.cache
+C:\Users\user\Desktop\HX\HZChTO2.0\obj\Debug\HZChTO2.0.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HX\HZChTO2.0\obj\Debug\HZChTO2.0.exe
+C:\Users\user\Desktop\HX\HZChTO2.0\obj\Debug\HZChTO2.0.pdb
